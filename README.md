@@ -16,19 +16,19 @@ Este projeto foi desenvolvido em grupo durante as aulas de **PMI** no primeiro s
 
 ### Planilhas de Vendas e Pedidos
 - As planilhas de Vendas e Pedidos registram as vendas realizadas e os pedidos feitos pela loja para reposição de estoque.
-- Em desenvolvimento: Um recurso para gerar relatórios de vendas no Microsoft Word, com um resumo das vendas feitas até o período atual.
+- **Em desenvolvimento**: Um recurso para gerar relatórios de vendas no Microsoft Word, com um resumo das vendas feitas até o período atual.
 
 ## Como Usar
 
 1. **Cadastro de Produtos:** Utilize a planilha de Cadastro para adicionar novos produtos ao sistema.
 2. **Gestão de Estoque:** Monitore as quantidades de produtos na planilha de Estoque, e aproveite os alertas visuais para tomar decisões rápidas.
 3. **Registro de Vendas e Pedidos:** Mantenha as planilhas de Vendas e Pedidos atualizadas para garantir um controle eficiente do estoque.
-4. **Geração de Relatórios (em desenvolvimento):** No futuro, será possível gerar relatórios automáticos das vendas diretamente no Word.
+4. **Geração de Relatórios**: Em breve, será possível gerar relatórios automáticos das vendas diretamente no Word. Esta funcionalidade ainda está em desenvolvimento.
 
 ## Requisitos
 
 - Microsoft Excel (ou equivalente compatível com arquivos `.xlsx`)
-- Microsoft Word (para a geração de relatórios)
+- Microsoft Word (para a futura geração de relatórios)
 
 ## Contribuição
 
